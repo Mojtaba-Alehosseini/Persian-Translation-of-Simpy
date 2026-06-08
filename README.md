@@ -15,10 +15,4 @@ A Persian (Farsi) translation of the documentation for [SimPy](https://simpy.rea
 
 ## Context
 
-A community translation intended to make SimPy more accessible to Persian-speaking Python users. Corrections and suggestions are welcome via issues or pull requests.
-# Persian-Translation-of-Simpy
-+ Persian Translation of Simpy. Python Library for Simulation
-+ ترجمه فارسی کتابخانه سیمپای
-+ https://simpy.readthedocs.io/en/latest/
-+ https://gitlab.com/team-simpy/simpy
-+ https://github.com/simpx/simpy
+A community translation to make SimPy more accessible to Persian-speaking Python users. Corrections and suggestions are welcome via issues or pull requests.
